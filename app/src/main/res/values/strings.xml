@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App28</string>
+    <string name="DesktopComputer">Desktop Computer</string>
+    <string name="LaptopComputer">Laptop Computer</string>
+    <string name="SmartphoneComputer">Smartphone Computer</string>
+    <string name="TabletComputer">Tablet Computer</string>
+</resources>
